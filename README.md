@@ -46,7 +46,7 @@ customtkinter: To create the modern Dark Mode user interface.
 solcx-python: To compile the Solidity Smart Contract.
 
 Pillow: To process images for the UI.
-Project Features
+# Project Features
 ✅ Real-time Face Detection: High accuracy identification.
 
 ✅ Secure Records: Attendance is saved on a decentralized ledger.
